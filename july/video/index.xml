@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on </title>
+    <link>https://www.coldhigh.com/july/video/</link>
+    <description>Recent content in Videos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.coldhigh.com/july/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wim Hof</title>
+      <link>https://www.coldhigh.com/july/wim-hof-vice-doco/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/july/wim-hof-vice-doco/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
