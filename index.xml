@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://www.coldhigh.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.coldhigh.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Challenge</title>
+      <link>https://www.coldhigh.com/challenge/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>https://www.coldhigh.com/tips/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/tips/</guid>
+      <description>My Cold-High Tips will be published today, so check again later.</description>
+    </item>
+    
+    <item>
+      <title>Two Taps of Human</title>
+      <link>https://www.coldhigh.com/two-taps-of-human/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/two-taps-of-human/</guid>
+      <description>&amp;ldquo;Two Taps of Human&amp;rdquo; will be published today, so check again later.</description>
+    </item>
+    
+    <item>
+      <title>Wim Hof</title>
+      <link>https://www.coldhigh.com/wim-hof-vice-doco/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/wim-hof-vice-doco/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>lane</title>
+      <link>https://www.coldhigh.com/challengers/lane/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.coldhigh.com/challengers/lane/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
