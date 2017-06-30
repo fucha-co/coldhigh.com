@@ -1,1 +1,0 @@
-# coldhighjuly.com
